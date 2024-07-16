@@ -1,0 +1,16 @@
+
+.image-preview img {
+    width: 200px;
+    border-width: 30px;
+    border-style: solid;
+    border-top-color: skyblue;
+    border-bottom-color: lightgreen;
+    border-left-color: #ffefd5; 
+    border-right-color: lightpink; 
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
